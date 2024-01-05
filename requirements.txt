@@ -92,8 +92,6 @@ PyQt5==5.15.9
 pyreadline3==3.4.1
 
 pytz==2023.3.post1
-pywin32==306
-
 referencing==0.31.0
 rembg==2.0.52
 requests==2.31.0

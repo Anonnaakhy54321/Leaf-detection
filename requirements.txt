@@ -42,7 +42,7 @@ jsonschema==4.20.0
 jsonschema-specifications==2023.11.1
 
 keras==2.15.0
-keras2onnx==1.7.0
+
 
 lazy_loader==0.3
 libclang==16.0.6
@@ -61,9 +61,6 @@ networkx==3.2.1
 numba==0.58.1
 
 oauthlib==3.2.2
-onnx==1.15.0
-onnxconverter-common==1.14.0
-onnxruntime==1.16.3
 opencv-python==4.8.1.78
 opencv-python-headless==4.8.1.78
 opt-einsum==3.3.0
